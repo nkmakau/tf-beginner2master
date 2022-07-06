@@ -1,0 +1,8 @@
+.DS_Store
+.vs/
+.terraform/
+*.tfstate
+*.backup
+nginx_key
+nginx_key.pub
+.terraform.lock.hcl
