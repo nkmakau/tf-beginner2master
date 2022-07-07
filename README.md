@@ -8,12 +8,12 @@ These code examples are organised by chapter name and order they appear in the c
 ### Chapter 3 - Your First Terraform Project
 - [first terraform project](./first_terraform_project)
 
-<!-- ### Chapter 4 - Resources
+### Chapter 4 - Resources
 - [resources example 01](./resources_example_01)
 - [resources example 02](./resources_example_02)
 - [resources example 03](./resources_example_03)
 
-### Chapter 5 - Providers
+<!-- ### Chapter 5 - Providers
 - [providers example 01](./providers_example_01)
 - [providers example 02](./providers_example_02)
 - [providers example 03](./providers_example_03)
@@ -74,5 +74,5 @@ These code examples are organised by chapter name and order they appear in the c
 ## Chapter 16 - Provisioners
 - [provisioners example 01](./provisioners_example_01)
 - [provisioners example 02](./provisioners_example_02)
-- [provisioners example 03](./provisioners_example_03) -->
+- [provisioners example 03](./provisioners_example_03) --> -->
 
